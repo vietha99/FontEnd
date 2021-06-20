@@ -1,0 +1,815 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Butterfly Knife / Factory New Doppler Sapphire",
+      "image": "https://s1.cs.money/TiMOki1_large_preview.png",
+      "price": 25600,
+      "status": true,
+      "quantity": "2",
+      "type": "Knives"
+    },
+    {
+      "id": "2",
+      "name": "Butterfly Knife / Factory New Doppler Sapphire",
+      "image": "https://s1.cs.money/jOQZVaI_large_preview.png",
+      "price": 10830,
+      "status": true,
+      "quantity": "1",
+      "type": "Knives"
+    },
+    {
+      "id": "3",
+      "name": "Karambit / Minimal Wear Gamma Doppler Emerald",
+      "price": 9600,
+      "quantity": "699",
+      "status": true,
+      "image": "https://s1.cs.money/XaW9Pj0_large_preview.png",
+      "type": "Knives"
+    },
+    {
+      "id": "4",
+      "name": " Karambit  /Factory New Fade",
+      "image": "https://s1.cs.money/cuImoF3_large_preview.png",
+      "price": 3200,
+      "status": true,
+      "quantity": 166,
+      "type": "Knives"
+    },
+    {
+      "id": "57",
+      "name": "AWP / Field-Tested Dragon Lore",
+      "image": "https://s1.cs.money/SkiNcXr_large_preview.png",
+      "price": 8000,
+      "status": false,
+      "quantity": 120,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "58",
+      "name": "AWP / Factory New The Prince",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJH4t27kYy0m_7zO6-fxjtQ7ZIpiOrAoNyijAfn_ks_ZDv7JofBIQA4Zw3S-1C8wu_ph5a6tYOJlyU7aMinug",
+      "price": 7987,
+      "status": false,
+      "quantity": 330,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "59",
+      "name": "AWP / Factory New Fade",
+      "image": "https://s1.cs.money/YtzRDiu_large_preview.png",
+      "price": 2864,
+      "status": false,
+      "quantity": 120,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "60",
+      "name": "AWP / Factory New Fade",
+      "price": 2000,
+      "quantity": "699",
+      "status": false,
+      "image": "https://s1.cs.money/HEHXrpV_large_preview.png",
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "61",
+      "name": "AWP / Minimal Wear Neo-Noir",
+      "image": "https://s1.cs.money/ZRptXq5_large_preview.png",
+      "price": 1600,
+      "status": false,
+      "quantity": 166,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "42",
+      "name": "AK-47 / Minimal Wear Vulcan",
+      "image": "https://s1.cs.money/WcNiy5R_large_preview.png",
+      "price": 640,
+      "status": false,
+      "quantity": "990",
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "43",
+      "name": "M4A4 / Battle-Scarred Asiimov",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJQJD_9W7m5a0n_L1JaKfxG4IvZch2rqT8I6j3wy3_0Q6ZTilIYaRIAc8Y1CC-lm_w-7m1JC46IOJlyXXPchXDw",
+      "price": 622,
+      "status": false,
+      "quantity": 120,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "44",
+      "name": "AK-47 / Factory New Neon Revolution",
+      "image": "https://s1.cs.money/XKvBfSm_large_preview.png",
+      "price": 550,
+      "status": true,
+      "quantity": 330,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "45",
+      "name": "AK-47 / Field-Tested The Empress",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09m7hJKOhOTLPr7Vn35cppMh2L2VrN-h2geyqhc-MD3xJYecIANrMwvZ8wK8wr3nhJC6vJ2dy3B9-n51Yx1fd-M",
+      "price": 399,
+      "status": false,
+      "quantity": 120,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "5",
+      "name": "Karambit / Factory New Marble Fade",
+      "image": "https://s1.cs.money/RfZdf1F_large_preview.png",
+      "price": 2480,
+      "status": true,
+      "quantity": 240,
+      "type": "Knives"
+    },
+    {
+      "id": "6",
+      "name": "Stiletto Knife / Factory New Doppler Sapphire",
+      "image": "https://s1.cs.money/VGV7oMS_large_preview.png",
+      "price": 2400,
+      "status": true,
+      "quantity": 133,
+      "type": "Knives"
+    },
+    {
+      "id": "7",
+      "name": "Butterfly Knife / Factory New Fade",
+      "image": "https://s1.cs.money/DVNAUf0_large_preview.png",
+      "price": 3520,
+      "status": false,
+      "quantity": "490",
+      "type": "Knives"
+    },
+    {
+      "id": "8",
+      "name": "Karambit / Field-Tested Case Hardened",
+      "image": "https://s1.cs.money/pLwkHhg_large_preview.png",
+      "price": 1360,
+      "status": true,
+      "quantity": 260,
+      "type": "Knives"
+    },
+    {
+      "id": "9",
+      "name": "Skeleton Knife / Factory New Stained",
+      "image": "https://s1.cs.money/sprr3yb_large_preview.png",
+      "price": 1277,
+      "status": true,
+      "quantity": 640,
+      "type": "Knives"
+    },
+    {
+      "id": "10",
+      "name": "Bayonet / Factory New Marble Fade",
+      "image": "https://s1.cs.money/6YXv9Ji_large_preview.png",
+      "price": 833,
+      "status": false,
+      "quantity": 10,
+      "type": "Knives"
+    },
+    {
+      "id": "11",
+      "name": "Bayonet / Minimal Wear Gamma Doppler Phase 1",
+      "image": "https://s1.cs.money/OZIcro1_large_preview.png",
+      "price": 773,
+      "status": true,
+      "quantity": 154,
+      "type": "Knives"
+    },
+    {
+      "id": "12",
+      "name": "Bowie Knife / Factory New Night",
+      "image": "https://s1.cs.money/5d9F0lj_large_preview.png",
+      "price": 836,
+      "status": true,
+      "quantity": 500,
+      "type": "Knives"
+    },
+    {
+      "id": "80",
+      "name": "Nova / Factory New Blaze Orange",
+      "image": "https://s1.cs.money/SM6aNpR_large_preview.png",
+      "price": 60,
+      "status": true,
+      "quantity": 640,
+      "type": "Shotguns"
+    },
+    {
+      "id": "81",
+      "name": "XM1014 / Minimal Wear Ancient Lore",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTjxM79WzmpS0gPbmPoTdn2xZ_Isoi7yS9t332lC280prMWnzIdWQdFQ2N12F_gC7k-e5gZa7v52awXcxpGB8sieSSniV",
+      "price": 120,
+      "status": true,
+      "quantity": 10,
+      "type": "Shotguns"
+    },
+    {
+      "id": "82",
+      "name": "XM1014 / Minimal Wear Entombed",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-KmuL4Nq_ulGdE7fp9g-7J4cKk2wPh_0VrNzz1INDHIwA5Z1rV-QDtxunu18W178jBn3pg6CZz7SnagVXp1lItuph7",
+      "price": 27,
+      "status": true,
+      "quantity": 154,
+      "type": "Shotguns"
+    },
+    {
+      "id": "83",
+      "name": "Sawed-Off / Factory New First Class",
+      "image": "https://s1.cs.money/tzqc3KP_large_preview.png",
+      "price": 31,
+      "status": true,
+      "quantity": 500,
+      "type": "Shotguns"
+    },
+    {
+      "id": "84",
+      "name": "Falchion Knife / Factory New Doppler Sapphire",
+      "image": "https://s1.cs.money/nkNQ7vl_large_preview.png",
+      "price": 959,
+      "status": true,
+      "quantity": 990,
+      "type": "Knives"
+    },
+    {
+      "id": "13",
+      "name": "Driver Gloves / Factory New Overtake",
+      "image": "https://s1.cs.money/gShl7fQ_large_preview.png",
+      "price": 931,
+      "status": true,
+      "quantity": 990,
+      "type": "Gloves"
+    },
+    {
+      "id": "15",
+      "name": "Specialist Gloves / Field-Tested Tiger Strike",
+      "image": "https://s1.cs.money/yRzJ9XC_large_preview.png",
+      "price": 979,
+      "status": true,
+      "quantity": 120,
+      "type": "Gloves"
+    },
+    {
+      "id": "JbbfHd6",
+      "name": "Sport Gloves / Well-Worn Superconductor",
+      "price": 959,
+      "quantity": "2",
+      "status": false,
+      "type": "Gloves",
+      "image": "https://s1.cs.money/JYs8rJj_large_preview.png"
+    },
+    {
+      "id": "lg--3qU",
+      "name": "Driver Gloves / Minimal Wear Crimson Weave",
+      "price": 984,
+      "quantity": "3",
+      "status": false,
+      "img": "xxxx",
+      "image": "https://s1.cs.money/5oxnjrq_large_preview.png",
+      "type": "Gloves"
+    },
+    {
+      "id": "ca23d9b3-cc34-495d-9eb0-1006fb9a9d55",
+      "name": "Sport Gloves / Well-Worn Hedge Maze",
+      "image": "https://s1.cs.money/Ih6rPQu_large_preview.png",
+      "price": 1000,
+      "quantity": "3",
+      "status": false,
+      "type": "Gloves"
+    },
+    {
+      "id": "04a94810-564b-470a-a039-298c8257cf7b",
+      "name": "Sport Gloves / Battle-Scarred Vice",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mJWOqOf9PbDunm5Q_tw_07zA942m3AWwqktvMDigJNfGJAQ7MFDYqVK3lbru1MW07cybzicy7z5iuyiQn2mw2g",
+      "price": 984,
+      "quantity": "6",
+      "status": true,
+      "type": "Gloves"
+    },
+    {
+      "id": "031863e9-b7f1-40bd-b356-836d015a9415",
+      "name": "Driver Gloves / Factory New Snow Leopard",
+      "image": "https://s1.cs.money/AZP9iAd_large_preview.png",
+      "price": 14756,
+      "quantity": "3",
+      "status": false,
+      "type": "Gloves"
+    },
+    {
+      "id": "20",
+      "name": "Desert Eagle / Factory New Printstream",
+      "image": "https://s1.cs.money/uVd7LAn_large_preview.png",
+      "price": 483,
+      "status": true,
+      "quantity": 240,
+      "type": "Pistols"
+    },
+    {
+      "id": "21",
+      "name": "USP-S / Factory New Serum",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ0927q4WHkvTgIbLSqXlU7Pp9g-7J4cLwjgzk-0Y-NjuiI4KRdw5oMAqCr1nox-jr0JbuvpzJm3A27CNz5X_agVXp1ik-to9s",
+      "price": 444,
+      "status": true,
+      "quantity": 133,
+      "type": "Pistols"
+    },
+    {
+      "id": "23",
+      "name": "USP-S / Factory New Target Acquired",
+      "image": "https://s1.cs.money/Vrlv2Gr_large_preview.png",
+      "price": 600,
+      "status": false,
+      "quantity": 260,
+      "type": "Pistols"
+    },
+    {
+      "id": "24",
+      "name": "USP-S / Minimal Wear Kill Confirmed",
+      "image": "https://s1.cs.money/4FE3MWb_large_preview.png",
+      "price": 590,
+      "status": true,
+      "quantity": 640,
+      "type": "Pistols"
+    },
+    {
+      "id": "25",
+      "name": "Desert Eagle / Factory New Emerald Jörmungandr",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjdN_tGJk5KOkvnLP7LWnn8f7Mcg2r2U84nw2FWy-UA6YWGhdoLEJFBqYF7UrlG5lO2-1MLouJ-cmmwj5HeT0A2gTg",
+      "price": 888,
+      "status": false,
+      "quantity": 10,
+      "type": "Pistols"
+    },
+    {
+      "id": "26",
+      "name": "Desert Eagle / Field-Tested Printstream",
+      "image": "https://s1.cs.money/hk3JqEO_large_preview.png",
+      "price": 93,
+      "status": false,
+      "quantity": 154,
+      "type": "Pistols"
+    },
+    {
+      "id": "27",
+      "name": "P250 / Factory New Steel Disruption",
+      "image": "https://s1.cs.money/p478NCn_large_preview.png",
+      "price": 85,
+      "status": false,
+      "quantity": 500,
+      "type": "Pistols"
+    },
+    {
+      "id": "28",
+      "name": "Souvenir R8 Revolver / Factory New Amber Fade",
+      "image": "https://s1.cs.money/FzK0AKC_large_preview.png",
+      "price": 69,
+      "status": false,
+      "quantity": 990,
+      "type": "Pistols"
+    },
+    {
+      "id": "29",
+      "name": "Souvenir P90 / Factory New Fallout Warning",
+      "image": "https://s1.cs.money/10TD2q0_large_preview.png",
+      "price": 90,
+      "status": false,
+      "quantity": 120,
+      "type": "SMG"
+    },
+    {
+      "id": "30",
+      "name": "Souvenir MP7 / Factory New Fade",
+      "image": "https://s1.cs.money/eOYHRlM_large_preview.png",
+      "price": 65,
+      "status": false,
+      "quantity": 330,
+      "type": "SMG"
+    },
+    {
+      "id": "31",
+      "name": " P90 / Minimal Wear Asiimov",
+      "image": "https://s1.cs.money/bxIo36T_large_preview.png",
+      "price": 53,
+      "status": true,
+      "quantity": "120",
+      "type": "SMG"
+    },
+    {
+      "id": "32",
+      "name": "PP-Bizon / Factory New Judgement of Anubis",
+      "price": 46,
+      "quantity": "699",
+      "status": false,
+      "image": "https://s1.cs.money/ZTfm6fP_large_preview.png",
+      "type": "SMG"
+    },
+    {
+      "id": "33",
+      "name": "MAC-10 / Factory New Neon Rider",
+      "image": "https://s1.cs.money/NntVHwl_large_preview.png",
+      "price": 72,
+      "status": true,
+      "quantity": 166,
+      "type": "SMG"
+    },
+    {
+      "id": "34",
+      "name": "UMP-45 / Factory New Crime Scene",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS09-knY2OqOT3NrXUqWdY781lxO3Dptvx0Q2xrRI4Z2_xJdKRIAU8YlqCrAK-l7_n0Za47pWYzyBr7yk8pSGKuNWv9Q4",
+      "price": 50,
+      "status": false,
+      "quantity": 240,
+      "type": "SMG"
+    },
+    {
+      "id": "35",
+      "name": "M4A1-S / Factory New Mecha Industries",
+      "image": "https://s1.cs.money/uH8KVsh_large_preview.png",
+      "price": 6000,
+      "status": false,
+      "quantity": 133,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "36",
+      "name": "M4A4 / Field-Tested Howl",
+      "image": "https://s1.cs.money/EPFFyZe_large_preview.png",
+      "price": 13600,
+      "status": true,
+      "quantity": 490,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "37",
+      "name": "AK-47 / Minimal Wear X-Ray",
+      "image": "https://s1.cs.money/5oFVhnB_large_preview.png",
+      "price": 4240,
+      "status": false,
+      "quantity": 260,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "38",
+      "name": "AK-47 / Minimal Wear Blue Laminate",
+      "image": "https://s1.cs.money/TFDusel_large_preview.png",
+      "price": 3999,
+      "status": false,
+      "quantity": 640,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "39",
+      "name": "AK-47 / Minimal Wear Blue Laminate",
+      "image": "https://s1.cs.money/djf5QAM_large_preview.png",
+      "price": 989,
+      "status": true,
+      "quantity": 10,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "16",
+      "name": "Glock-18 / Factory New Fade",
+      "image": "https://s1.cs.money/PW4ctrT_large_preview.png",
+      "price": 12799,
+      "status": false,
+      "quantity": 330,
+      "type": "Pistols"
+    },
+    {
+      "id": "17",
+      "name": "USP-S / Factory New Road Rash",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jnMrXVhmpB7dd0jtbN_Iv9nBrsrxZlY26lcdKXJgY-Yl6F-gK4ku-5hpS675_JwHNm7ygm433fmESwn1gSOYQPCPgR",
+      "price": 2000,
+      "status": false,
+      "quantity": 120,
+      "type": "Pistols"
+    },
+    {
+      "id": "18",
+      "name": "P250 / Minimal Wear Undertow",
+      "price": 1599,
+      "quantity": "699",
+      "status": true,
+      "image": "https://s1.cs.money/A54pkoa_large_preview.png",
+      "type": "Pistols"
+    },
+    {
+      "id": "19",
+      "name": "Desert Eagle / Minimal Wear Cobalt Disruption",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjlG_N2ikIWFhPLLI77QlWRS4_p9g-7J4cL03AzirxFvYm_zdtXBIVA4MwvVq1Dqye_ojMW4uZ2byXA1vCIi5HrcgVXp1tntQJzL",
+      "price": 800,
+      "status": false,
+      "quantity": 166,
+      "type": "Pistols"
+    },
+    {
+      "id": "40",
+      "name": "AK-47 / Field-Tested Redline",
+      "image": "https://s1.cs.money/iNZ8q1i_large_preview.png",
+      "price": 800,
+      "status": true,
+      "quantity": 154,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "41",
+      "name": "M4A1-S / Factory New Hot Rod",
+      "image": "https://s1.cs.money/Pge6HZ3_large_preview.png",
+      "price": 751,
+      "status": false,
+      "quantity": 500,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "46",
+      "name": "AK-47 / Factory New Elite Build",
+      "price": 200,
+      "quantity": "699",
+      "status": false,
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09G3h5SOhe7LP7LWnn8fvJYh3-qR942higTmqBZpYGild4adIQQ5ZA6B_AC3lebo0ce-78vOnGwj5HeAJ9sV6g",
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "47",
+      "name": "M4A1-S / Factory New Decimator",
+      "image": "https://s1.cs.money/GA5gPYC_large_preview.png",
+      "price": 200,
+      "status": false,
+      "quantity": 166,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "53",
+      "name": "AUG / Factory New Bengal Tiger",
+      "image": "https://s1.cs.money/zByEuEJ_large_preview.png",
+      "price": 44,
+      "status": false,
+      "quantity": 10,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "54",
+      "name": "M4A4 / Minimal Wear X-Ray",
+      "image": "https://s1.cs.money/UrEq1tg_large_preview.png",
+      "price": 48,
+      "status": true,
+      "quantity": "154",
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "55",
+      "name": "AK-47 / Minimal Wear Black Laminate",
+      "image": "https://s1.cs.money/17ZTlws_large_preview.png",
+      "price": 51,
+      "status": false,
+      "quantity": 500,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "56",
+      "name": "Galil AR / Field-Tested Chatterbox",
+      "image": "https://s1.cs.money/CnsPFrb_large_preview.png",
+      "price": 39,
+      "status": false,
+      "quantity": 990,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "62",
+      "name": "AWP / Factory New Lightning Strike",
+      "image": "https://s1.cs.money/ODFu5BJ_large_preview.png",
+      "price": 1199,
+      "status": false,
+      "quantity": 240,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "63",
+      "name": "AWP / Battle-Scarred Asiimov",
+      "image": "https://s1.cs.money/Dlfs8ig_large_preview.png",
+      "price": 1066,
+      "status": true,
+      "quantity": 133,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "48",
+      "name": "M4A1-S / Field-Tested Atomic Alloy",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Gw_alfqjul2dd59xOhfvA-4vwt1mxrxopPnfxIoPAcgQ6NQqGq1O6kO_vjZa46JWdwHAw6XNwsSvVmxzh0B4abLFnm7XAHsAw1GuT",
+      "price": 97,
+      "status": false,
+      "quantity": 240,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "49",
+      "name": " AK-47 / Well-Worn Case Hardened",
+      "image": "https://s1.cs.money/9iJtZ5M_large_preview.png",
+      "price": 81,
+      "status": false,
+      "quantity": 133,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "50",
+      "name": "M4A1-S / Minimal Wear Player Two",
+      "image": "https://s1.cs.money/Yv8Bj1V_large_preview.png",
+      "price": 81,
+      "status": true,
+      "quantity": 490,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "51",
+      "name": "AK-47 / Minimal Wear Safety Net",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszFdC5K08-3koWfjvjmMrXWk1Rd4cJ5nqfHoYnw3gy2qEA-MT36I4TBJ1I4ZA2D-Vfsx-jtgJ-9tZSbziQy7HIl-z-DyBfVofz8",
+      "price": 48,
+      "status": false,
+      "quantity": 260,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "52",
+      "name": "AK-47 / Field-Tested Redline",
+      "image": "https://s1.cs.money/mZdZLVK_large_preview.png",
+      "price": 45,
+      "status": true,
+      "quantity": 640,
+      "type": "Assault Rifles"
+    },
+    {
+      "id": "64",
+      "name": "AWP / Minimal Wear Hyper Beast",
+      "image": "https://s1.cs.money/lMBHAJ0_large_preview.png",
+      "price": 800,
+      "status": false,
+      "quantity": 490,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "65",
+      "name": "AWP / Minimal Wear Pit Viper",
+      "image": "https://s1.cs.money/Gb99EXO_large_preview.png",
+      "price": 458,
+      "status": false,
+      "quantity": 260,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "66",
+      "name": "AWP / Factory New Mortis",
+      "image": "https://s1.cs.money/p09gBvc_large_preview.png",
+      "price": 444,
+      "status": false,
+      "quantity": 640,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "67",
+      "name": "AWP / Minimal Wear BOOM",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PHEcDB9_9W7hIyOqPv9NLPF2G5VuZQl072WodSkjQTn_UU-YTqncYaccFc2NQyBqVXqxuzqhZG7uc_XiSw0f3y6kYU",
+      "price": 417,
+      "status": false,
+      "quantity": 10,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "68",
+      "name": "AWP / Minimal Wear Silk Tiger",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7OfBdjhQ_-O0mJWOqPv9NLPF2D8CvJMo07zAoN-t2le28xZqMTj1J4CWcQNoYg7Ur1i6yOfn1JK4u8vXiSw08TF91CI",
+      "price": 1000,
+      "status": false,
+      "quantity": 154,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "69",
+      "name": "AWP / Factory New Wildfire",
+      "image": "https://s1.cs.money/vvzDxfw_large_preview.png",
+      "price": 338,
+      "status": true,
+      "quantity": 500,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "70",
+      "name": "AWP / Minimal Wear Worm God",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZx7PLfYQJW-9W4kb-HnvD8J_XXzzwH65EgiLHHrNutjAa28xdtYG7wINCUdlA4ZFDW81m8lebqjMC9ot2XnlThvpXE",
+      "price": 280,
+      "status": true,
+      "quantity": 990,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "71",
+      "name": "AWP / Field-Tested Silk Tiger",
+      "image": "https://s1.cs.money/QiguNCd_large_preview.png",
+      "price": 387,
+      "status": false,
+      "quantity": 120,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "72",
+      "name": "SCAR-20 / Factory New Cyrex",
+      "image": "https://s1.cs.money/mEfjzNl_large_preview.png",
+      "price": 260,
+      "status": true,
+      "quantity": 330,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "73",
+      "name": "AWP / Minimal Wear Pit Viper",
+      "image": "https://s1.cs.money/PDGY3jn_large_preview.png",
+      "price": 444,
+      "status": false,
+      "quantity": 120,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "74",
+      "name": "AWP / Factory New Sun in Leo",
+      "price": 240,
+      "quantity": "699",
+      "status": false,
+      "image": "https://s1.cs.money/IULuqK3_large_preview.png",
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "75",
+      "name": "AWP / Battle-Scarred Asiimov",
+      "image": "https://s1.cs.money/PvMjBj8_large_preview.png",
+      "price": 1777,
+      "status": true,
+      "quantity": 166,
+      "type": "Sniper Rifles"
+    },
+    {
+      "id": "76",
+      "name": "XM1014 / Factory New Fallout Warning",
+      "image": "https://s1.cs.money/9iL71dS_large_preview.png",
+      "price": 78,
+      "status": false,
+      "quantity": 240,
+      "type": "Shotguns"
+    },
+    {
+      "id": "77",
+      "name": "XM1014 / Factory New XOXO",
+      "image": "https://s1.cs.money/tkoi0vV_large_preview.png",
+      "price": 66,
+      "status": true,
+      "quantity": 133,
+      "type": "Shotguns"
+    },
+    {
+      "id": "78",
+      "name": "MAG-7 / Factory New Hazard",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zAcCdD_tiJlpKKgfjLP7LWnn8fvZR30r2SpY3wiQDiqks6amqmIYaRJFQ3NAnZ_1Htlenoh5-_vMnPnWwj5HeouX7iBw",
+      "price": 66,
+      "status": false,
+      "quantity": 490,
+      "type": "Shotguns"
+    },
+    {
+      "id": "79",
+      "name": "Sawed-Off / Factory New Devourer",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9_92hkYSEkfHLN77HmX5D7ddOhuDG_Zi7jAzn_UY5YmrwJobDcAZrM13T-AC8levuhZ_pvcuayndmvCJwtnzamQv330-LHBr0xA",
+      "price": 79,
+      "status": true,
+      "quantity": 260,
+      "type": "Shotguns"
+    },
+    {
+      "id": "85",
+      "name": "Falchion Knife / Factory New Doppler Black Pearl",
+      "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20lfv1MLDBk2pD5Pp8i_vD-Yn8klGwlB81NDG3OtDAcgM4Mw6GrwS3kOjn15Hv7ZnBmiFjvCcr5y2OmhC_h0wdPbZth_WACQLJOWkAmeM",
+      "price": 900,
+      "status": true,
+      "quantity": "900",
+      "type": "Knives"
+    },
+    {
+      "id": "65bdec04-cdc8-408b-8a2f-24c30261e7db",
+      "type": "Knives",
+      "name": "Talon Knife / Factory New Fade",
+      "image": "https://s1.cs.money/oRwJf0e_large_preview.png",
+      "price": 3555,
+      "quantity": "2",
+      "status": true
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "name": "admin",
+      "role": "1",
+      "id": 1
+    }
+  ]
+}
